@@ -15,6 +15,7 @@ README.txt
 3) N/A
 
 4) Sources: 
+https://stackoverflow.com/questions/14684328/how-to-add-something-at-the-end-of-a-c-array
 
 5) In the terminal, run the following code:
 
